@@ -1,0 +1,2 @@
+"","ONTOLOGY","ID","Description","setSize","enrichmentScore","NES","pvalue","p.adjust","qvalue","rank","leading_edge","core_enrichment"
+"GO:1905150","BP","GO:1905150","regulation of voltage-gated sodium channel activity",5,0.991717698573086,1.70616579514908,9.26041697700642e-07,0.0129488410589481,0.0129488410589481,100,"tags=40%, list=0%, signal=40%","SCN1B/FGF14"
